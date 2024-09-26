@@ -1,3 +1,3 @@
-git clone https://github.com/Olopper/HLC_SMR_P1.git
+Oscar
 git checkout -b Oliver_Lopez_v1
 git push --set-upstream origin Oliver_Lopez_v1
